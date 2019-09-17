@@ -1,0 +1,20 @@
+D:\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\bin\Debug\Kaarstpel - Form.exe.config
+D:\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\bin\Debug\Kaarstpel - Form.exe
+D:\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\bin\Debug\Kaarstpel - Form.pdb
+D:\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel - Form.csprojAssemblyReference.cache
+D:\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel___Form.Form1.resources
+D:\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel___Form.Properties.Resources.resources
+D:\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel - Form.csproj.GenerateResource.cache
+D:\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel - Form.csproj.CoreCompileInputs.cache
+D:\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel - Form.exe
+D:\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel - Form.pdb
+D:\kaartspel\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\bin\Debug\Kaarstpel - Form.exe.config
+D:\kaartspel\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\bin\Debug\Kaarstpel - Form.exe
+D:\kaartspel\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\bin\Debug\Kaarstpel - Form.pdb
+D:\kaartspel\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel - Form.csprojAssemblyReference.cache
+D:\kaartspel\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel___Form.Form1.resources
+D:\kaartspel\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel___Form.Properties.Resources.resources
+D:\kaartspel\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel - Form.csproj.GenerateResource.cache
+D:\kaartspel\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel - Form.csproj.CoreCompileInputs.cache
+D:\kaartspel\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel - Form.exe
+D:\kaartspel\Kaartspel - Form\Kaarstpel - Form\Kaarstpel - Form\obj\Debug\Kaarstpel - Form.pdb
